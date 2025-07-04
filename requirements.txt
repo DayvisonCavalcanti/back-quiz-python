@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+supabase
+python-jose[cryptography]
+passlib
+python-multipart
+pydantic
+
+#fastapi
+#uvicorn
+#python-jose[cryptography]
+#passlib
+#python-multipart
+#supabase
+#python-dotenv
